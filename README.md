@@ -156,12 +156,3 @@ http://10.0.2.2:5000/
 - Cloud Deployment
 
 ---
-
-# 🎓 Academic Project
-
-**Major Project (MCA-4061)**  
-Department of Computer Application  
-School of Engineering & Technology (UIET)  
-Chhatrapati Shahu Ji Maharaj University (CSJMU)
-
-and educational purposes only.
